@@ -1,2 +1,3 @@
-# xyz-gb-page-test
-gb page for previewing
+# .xyz website
+The face of web 3
+
